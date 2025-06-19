@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Graduate:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gothic A1:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="desktop-1">
+    		<div class="desktop-1-child">
+    		</div>
+    		<img class="desktop-1-item" alt="" src="Rectangle 2.png">
+    		
+    		<img class="desktop-1-inner" alt="" src="Rectangle 3.png">
+    		
+    		<img class="rectangle-icon" alt="" src="Rectangle 4.png">
+    		
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="desktop-1-child1">
+    		</div>
+    		<div class="caf">Café</div>
+    		<div class="almoo">Almoço</div>
+    		<img class="desktop-1-child2" alt="" src="Rectangle 12.png">
+    		
+    		<div class="endereo">Endereço</div>
+    		<div class="desktop-1-child3">
+    		</div>
+    		<div class="telefone">Telefone</div>
+    		<div class="desktop-1-child4">
+    		</div>
+    		<div class="waytche">WAYTCHE</div>
+    		<div class="desktop-1-child5">
+    		</div>
+    		<div class="component-9">
+      			<div class="cardpio">teleentrega</div>
+    		</div>
+    		<img class="icon" alt="" src="7217494 1.png">
+    		
+    		<div class="component-3">
+      			<div class="cardpio">Faça seu pedido</div>
+    		</div>
+    		<div class="component-5">
+      			<div class="cardpio">DAVID & ADELITA</div>
+    		</div>
+    		<div class="component-2">
+      			<div class="cardpio">Cardápio</div>
+    		</div>
+    		<div class="component-4">
+      			<div class="cardpio">Loja</div>
+    		</div>
+    		<div class="component-11">
+      			<div class="captura-de-tela-2024-07-17-193-parent">
+        				<img class="captura-de-tela-2024-07-17-193" alt="" src="Captura de tela 2024-07-17 193212 1.png">
+        				
+        				<img class="captura-de-tela-2024-07-17-194" alt="" src="Captura de tela 2024-07-17 194542 1.png">
+        				
+        				<img class="captura-de-tela-2024-07-18-103" alt="" src="Captura de tela 2024-07-18 103340 1.png">
+        				
+      			</div>
+    		</div>
+  	</div>
+  	
+  	<style>
+		.desktop-1-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #a94848;
+  	width: 1440px;
+  	height: 103px;
+}
+.desktop-1-item {
+  	position: absolute;
+  	top: 103px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 576px;
+  	object-fit: cover;
+}
+.desktop-1-inner {
+  	position: absolute;
+  	top: 794px;
+  	left: 257px;
+  	width: 399px;
+  	height: 395px;
+  	object-fit: cover;
+}
+.rectangle-icon {
+  	position: absolute;
+  	top: 794px;
+  	left: 784px;
+  	width: 399px;
+  	height: 395px;
+  	object-fit: cover;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 1959px;
+  	left: 0px;
+  	background-color: #500000;
+  	width: 1440px;
+  	height: 651px;
+}
+.desktop-1-child1 {
+  	position: absolute;
+  	top: 2050px;
+  	left: 128px;
+  	background-color: #f4f2f0;
+  	width: 1184px;
+  	height: 469px;
+}
+.caf {
+  	position: absolute;
+  	top: 730px;
+  	left: 406px;
+  	font-size: 40px;
+}
+.almoo {
+  	position: absolute;
+  	top: 730px;
+  	left: 902px;
+  	font-size: 40px;
+}
+.desktop-1-child2 {
+  	position: absolute;
+  	top: 2052px;
+  	left: 713px;
+  	width: 599px;
+  	height: 467px;
+  	object-fit: cover;
+}
+.endereo {
+  	position: absolute;
+  	top: 2112px;
+  	left: 163px;
+  	font-size: 32px;
+  	font-family: 'Gothic A1';
+}
+.desktop-1-child3 {
+  	position: absolute;
+  	top: 2162px;
+  	left: 163px;
+  	background-color: #d9d9d9;
+  	width: 402px;
+  	height: 76px;
+}
+.telefone {
+  	position: absolute;
+  	top: 2285px;
+  	left: 163px;
+  	font-size: 32px;
+  	font-family: 'Gothic A1';
+}
+.desktop-1-child4 {
+  	position: absolute;
+  	top: 2372px;
+  	left: 163px;
+  	background-color: #d9d9d9;
+  	width: 402px;
+  	height: 76px;
+}
+.waytche {
+  	position: absolute;
+  	top: 31px;
+  	left: 43px;
+  	font-size: 32px;
+  	font-family: 'Gothic A1';
+  	color: #fff;
+}
+.desktop-1-child5 {
+  	position: absolute;
+  	top: 19px;
+  	left: 1149px;
+  	border-radius: 11px;
+  	background-color: #d9d9d9;
+  	width: 268px;
+  	height: 64px;
+}
+.cardpio {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	display: inline-block;
+}
+.component-9 {
+  	position: absolute;
+  	top: 37px;
+  	left: 1163px;
+  	width: 176px;
+  	height: 29px;
+}
+.icon {
+  	position: absolute;
+  	top: 22px;
+  	left: 1339px;
+  	width: 72px;
+  	height: 59px;
+  	object-fit: cover;
+}
+.component-3 {
+  	position: absolute;
+  	top: 37px;
+  	left: 859px;
+  	width: 219px;
+  	height: 29px;
+  	color: #fff;
+}
+.component-5 {
+  	position: absolute;
+  	top: 37px;
+  	left: 613px;
+  	width: 219px;
+  	height: 29px;
+  	color: #fff;
+}
+.component-2 {
+  	position: absolute;
+  	top: 37px;
+  	left: 464px;
+  	width: 122px;
+  	height: 29px;
+  	color: #fff;
+}
+.component-4 {
+  	position: absolute;
+  	top: 37px;
+  	left: 362px;
+  	width: 75px;
+  	height: 29px;
+  	color: #fff;
+}
+.captura-de-tela-2024-07-17-193 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1112px;
+  	height: 523px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-17-194 {
+  	position: absolute;
+  	top: 0px;
+  	left: 1319px;
+  	width: 1112px;
+  	height: 523px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-18-103 {
+  	position: absolute;
+  	top: 0px;
+  	left: 2578px;
+  	width: 1112px;
+  	height: 523px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-17-193-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 3690px;
+  	height: 523px;
+}
+.component-11 {
+  	position: absolute;
+  	top: 1312px;
+  	left: 171px;
+  	background-color: #fff;
+  	width: 1112px;
+  	height: 523px;
+  	overflow: hidden;
+}
+.desktop-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fbfbfb;
+  	height: 2610px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Graduate;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+  	
+</body>
+</html>
