@@ -16,11 +16,11 @@
   	<div class="desktop-1">
     		<div class="desktop-1-child">
     		</div>
-    		<img class="desktop-1-item" alt="" src="Rectangle 2.png">
+    		<img class="desktop-1-item" alt="banner" src="https://github.com/Camilasimoes1/restaurante/blob/main/dd884ffcf6fe0fa21e5049432aa8ef2a5865d512.png?raw=true">
     		
-    		<img class="desktop-1-inner" alt="" src="Rectangle 3.png">
+    		<img class="desktop-1-inner" alt="cafe" src="https://github.com/Camilasimoes1/restaurante/blob/main/420001c95dac5d5b804e97ce89b030c5c8c063e1.png?raw=true">
     		
-    		<img class="rectangle-icon" alt="" src="Rectangle 4.png">
+    		<img class="rectangle-icon" alt="almoco" src="https://github.com/Camilasimoes1/restaurante/blob/main/66ec4542c00ff11eb334562ab9c592f93315f08a.png?raw=true">
     		
     		<div class="rectangle-div">
     		</div>
@@ -28,7 +28,7 @@
     		</div>
     		<div class="caf">Café</div>
     		<div class="almoo">Almoço</div>
-    		<img class="desktop-1-child2" alt="" src="Rectangle 12.png">
+    		<img class="desktop-1-child2" alt="mapa" src="https://github.com/Camilasimoes1/restaurante/blob/main/5e9d418a678d5c085f899eeb76e7b88adfde6b02.png?raw=true">
     		
     		<div class="endereo">Endereço</div>
     		<div class="desktop-1-child3">
@@ -42,7 +42,7 @@
     		<div class="component-9">
       			<div class="cardpio">teleentrega</div>
     		</div>
-    		<img class="icon" alt="" src="7217494 1.png">
+    		<img class="icon" alt="" src="https://github.com/Camilasimoes1/restaurante/blob/main/f0f076f416e157d140a5be04ad7a349d890d5204.png?raw=true">
     		
     		<div class="component-3">
       			<div class="cardpio">Faça seu pedido</div>
@@ -58,11 +58,8 @@
     		</div>
     		<div class="component-11">
       			<div class="captura-de-tela-2024-07-17-193-parent">
-        				<img class="captura-de-tela-2024-07-17-193" alt="" src="Captura de tela 2024-07-17 193212 1.png">
+        				<img class="captura-de-tela-2024-07-17-193" alt="" src="https://github.com/Camilasimoes1/restaurante/blob/main/ab412aa8508c1384549b60265c6458d57771b74d.png?raw=true">
         				
-        				<img class="captura-de-tela-2024-07-17-194" alt="" src="Captura de tela 2024-07-17 194542 1.png">
-        				
-        				<img class="captura-de-tela-2024-07-18-103" alt="" src="Captura de tela 2024-07-18 103340 1.png">
         				
       			</div>
     		</div>
